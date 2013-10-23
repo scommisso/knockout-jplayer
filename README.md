@@ -11,6 +11,6 @@ example usage
 		title: TitleObservable }">
 	</div>
 
-The jPlayer binding accepts standard [jQuery](http://jquery.com/) [jPlayer](http://jplayer.org/) options, with the addition of the 
+The [jPlayer](http://jplayer.org/) binding accepts standard [jQuery](http://jquery.com/) [jPlayer](http://jplayer.org/) options, with the addition of the 
 media and title fields. These are the only required fields for the binding. The plugin
-will automatically generate the other bindings required by jPlayer (such as *'supplies'*).
+will automatically generate the other bindings required by [jPlayer](http://jplayer.org/) (such as *'supplies'*).
